@@ -41,7 +41,7 @@ npm start
 * [Styled-Components](https://www.styled-components.com/)
 
 ## Video
-[![Watch the video](https://imgur.com/a/q3BdM4y)](https://youtu.be/snPe9XQR234)
+[![Watch the video](https://github.com/m4h4nk4l1/reactJS-construction/blob/master/homepage.png)](https://youtu.be/snPe9XQR234)
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
